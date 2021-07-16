@@ -43,8 +43,15 @@ export const Info = styled.div`
     color: var(--color-text-quarternary);
   }
 
-  button {
+  p {
+    font-size: 15px;
+    font-weight: bold;
+    color: var(--color-text-quarternary);
+  }
+
+  /* a {
     text-decoration: none;
+    text-align: center;
     background-color: var(--color-background-quarternary);
     color: var(--color-text-secondary);
     border-radius: 20px;
@@ -57,7 +64,7 @@ export const Info = styled.div`
     :hover {
       color: rgba(240, 240, 247,.5);
     }
-  }
+  } */
 
   span {
     margin: 20px;

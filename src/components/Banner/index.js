@@ -1,4 +1,5 @@
 import React from 'react';
+
 import black from '../../assets/black.png';
 import banner from '../../assets/banner.jpg';
 
@@ -17,8 +18,7 @@ function Banner() {
         <div className="info">
           <h2>Promoção Black Friday!</h2>
           <h2>Nada supera um clássico!</h2>
-          <button name="#Ofertas" >Veja as Promoções</button>
-          {/* <p>Economize até 50% de sua grana nos jogos 😉</p> */}
+          <p>Economize até 50% de sua grana nos jogos 😉</p>
           <span>Não fique de fora, aproveite as promoções da Black Friday para começar a jogatina!</span>
         </div>
       </S.Info>
