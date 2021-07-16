@@ -19,6 +19,13 @@ Desafio - Criar um sistema de e-commerce para cadastro de email na landing page 
 - [Repositório no GitHub]()
 - [Link da Landing Page]()
 
+### Observações
+- Todo o projeto foi criado com commits por parte de desenvolvimento;
+
+### Tecnologias
+- [react-router-dom](https://reactrouter.com/web/guides/quick-start)
+- [react-icons](https://react-icons.github.io/react-icons)
+- [styled-components](https://styled-components.com/docs)
 
 <!--License session-->
 <h3>📝 Licença</h3>
