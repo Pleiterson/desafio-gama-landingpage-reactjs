@@ -1,15 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
 :root {
   --color-background-primary: #f0f0f7;
-  --color-background-secondary: #282a36;
-  --color-background-tertiary: #aaaaaa;
-  --color-background-quarternary: #29292e;
+  --color-background-secondary: #757575;
+  --color-background-tertiary: #000000;
+  /* --color-background-tertiary: #aaaaaa; */
+  --color-background-quarternary: #288927;
   --color-text-primary: #000000;
   --color-text-secondary: #f0f0f7;
-  --color-text-tertiary: #aaaaaa;
-  --color-text-quarternary: #282a36;
+  --color-text-tertiary: #9e53fb;
+  /* --color-text-tertiary: #aaaaaa; */
+  --color-text-quarternary: #288927;
   --color-line-primary: #f0f0f7;
   --color-line-secondary: #282a36;
   --color-line-tertiary: #aaaaaa;
