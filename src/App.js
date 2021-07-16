@@ -1,9 +1,7 @@
 import React from 'react';
+import Routers from './routes';
+import './styles/global.css';
 
-function App() {
-  return (
-    <h1>Bora iniciar</h1>
-  );
+export default function App() {
+  return <Routers />
 }
-
-export default App;
