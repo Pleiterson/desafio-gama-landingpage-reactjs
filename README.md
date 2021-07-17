@@ -16,8 +16,8 @@ Desafio - Criar um sistema de e-commerce para cadastro de email na landing page 
 
 <br>Bora lá? Então valendo! Esse desafio é individual, mas incentivamos que vocês troquem links entre si para feedbacks dos colegas <3
 
-- [Repositório no GitHub]()
-- [Link da Landing Page]()
+- [Repositório no GitHub](https://github.com/Pleiterson/desafio-gama-landingpage-reactjs)
+- [Link da Landing Page](https://pleigames.vercel.app/)
 
 ### Observações
 - Todo o projeto foi criado com commits por parte de desenvolvimento;
