@@ -110,3 +110,23 @@ export const Item = styled.div`
     color: var(--color-text-quarternary);
   }
 `;
+
+export const ItemFooter = styled.div`
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+  cursor: pointer;
+  
+  img {
+    width: 236.17px;
+  }
+  
+  span {
+    align-items: center;
+    font-size: 15px;
+    font-weight: bold;
+    color: var(--color-text-quarternary);
+    padding: 10px 0;
+  }
+`;

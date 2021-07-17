@@ -8,6 +8,9 @@ import consoles from '../../assets/consoles.svg';
 import accessories from '../../assets/acessorios.svg';
 import sale from '../../assets/ofertas.svg';
 import account from '../../assets/conta.svg';
+import console from '../../assets/consoles.jpg';
+import accessorie from '../../assets/acessorios.jpg';
+import support from '../../assets/suporte.jpg';
 
 import * as S from './styled';
 
@@ -74,6 +77,21 @@ function Home() {
       </S.Container>
 
       <Ofertas />
+
+      <S.Container>
+        <S.ItemFooter>
+          <img alt="Consoles" src={console}/>
+          <span>CONSOLES</span>
+        </S.ItemFooter>
+        <S.ItemFooter>
+          <img alt="Acessórios" src={accessorie}/>
+          <span>ACESSÓRIOS</span>
+        </S.ItemFooter>
+        <S.ItemFooter>
+          <img alt="Suporte" src={support}/>
+          <span>SUPORTE</span>
+        </S.ItemFooter>
+      </S.Container>
     </>
   );
 }
