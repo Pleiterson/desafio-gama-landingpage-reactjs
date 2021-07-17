@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import {Link} from 'react-router-dom';
 
 export const Navbar = styled.nav`
-  background-color: var(--color-background-secondary);
+  background-color: var(--color-background-primary);
   -webkit-filter: drop-shadow(0px 5px 5px rgba(0,0,0,.5));
   filter: drop-shadow(0px 5px 5px rgba(0,0,0,.5));
   height: 80px;
@@ -10,12 +10,15 @@ export const Navbar = styled.nav`
   align-items: center;
   justify-content: space-around;
   font-size: 14px;
-  color: var(--color-text-secondary);
+  color: var(--color-text-primary);
 `;
 
 export const LinkHome = styled(Link)`
+  display: flex;
+  align-items: center;
+  justify-content: center;
   text-decoration: none;
-  color: var(--color-text-secondary);
+  color: var(--color-text-primary);
   font-size: 18px;
   font-family: 'Bangers', cursive;
   letter-spacing: .5rem;
@@ -34,9 +37,10 @@ export const Menu = styled.ul`
 `;
 
 export const MenuItem = styled.li`
+  font-weight: bold;
   cursor: pointer;
   
   :hover {
-    color: rgba(240, 240, 247,.5);
+    color: var(--color-text-tertiary);
   }
 `;

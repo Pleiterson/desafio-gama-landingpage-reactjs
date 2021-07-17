@@ -22,6 +22,8 @@ export const Sale = styled.div`
 
 export const Item = styled(Link)`
   background-color: var(--color-background-tertiary);
+  -webkit-filter: drop-shadow(0px 5px 5px rgba(0,0,0,.5));
+  filter: drop-shadow(0px 5px 5px rgba(0,0,0,.5));
   color: var(--color-text-primary);
   margin: 5px;
   cursor: pointer;
