@@ -114,7 +114,6 @@ export const Item = styled.div`
 export const ItemFooter = styled.div`
   display: flex;
   flex-direction: column;
-  /* align-items: center; */
   justify-content: center;
   cursor: pointer;
   

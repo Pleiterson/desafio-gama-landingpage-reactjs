@@ -1,5 +1,4 @@
 import React from 'react';
-
 import black from '../../assets/black.png';
 import banner from '../../assets/banner.jpg';
 
@@ -8,7 +7,7 @@ import * as S from './styled';
 function Banner() {
   return (
     <>
-      <S.Black className="black-friday">
+      <S.Black>
         <p>50% OFF</p>
         <img alt="black friday" src={black}/>
       </S.Black>

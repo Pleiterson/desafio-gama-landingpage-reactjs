@@ -33,7 +33,7 @@ export const Info = styled.div`
     top: 42rem;
     margin: 20px;
     padding: 10px;
-    right: 5%;
+    right: 2%;
   }
   
   h2 {
@@ -47,10 +47,12 @@ export const Info = styled.div`
     font-size: 15px;
     font-weight: bold;
     color: var(--color-text-quarternary);
+    margin: 20px;
+    padding: 10px;
   }
 
   span {
-    margin: 20px;
+    margin: 40px 20px 0 20px;
     padding: 10px;
     width: 300px;
     font-size: 12px;

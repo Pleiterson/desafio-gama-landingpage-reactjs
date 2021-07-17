@@ -7,16 +7,12 @@
   --color-background-secondary: #757575;
   --color-background-tertiary: #ffffff;
   --color-background-quarternary: #288927;
-  /* --color-background-quarternary: #aaaaaa; */
   --color-text-primary: #282a36;
   --color-text-secondary: #f0f0f7;
   --color-text-tertiary: #9e53fb;
   --color-text-quarternary: #288927;
   --color-text-quintenary: #aaaaaa;
   --color-line-primary: #aaaaaa;
-  /* --color-line-primary: #f0f0f7; */
-  /* --color-line-secondary: #282a36; */
-  /* --color-line-tertiary: #aaaaaa; */
 
   font-size: 62.5%;
 }

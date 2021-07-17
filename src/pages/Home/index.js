@@ -2,6 +2,7 @@ import React, {useState} from 'react';
 import Navbar from '../../components/Navbar';
 import Banner from '../../components/Banner';
 import Ofertas from '../../components/Ofertas';
+import Footer from '../../components/Footer';
 
 import games from '../../assets/games.svg';
 import consoles from '../../assets/consoles.svg';
@@ -36,7 +37,7 @@ function Home() {
       <Navbar />
       <Banner />
 
-      <S.Newsletter className="newsletter">
+      <S.Newsletter>
         <S.Title>
           <h2>A BLACK FRIDAY ESTÁ CHEGADO!</h2>
           <h3>RECEBA EM SEU EMAIL AS OFERTAS EM PRIMEIRA MÃO!</h3>
@@ -54,23 +55,23 @@ function Home() {
       </S.Newsletter>
 
       <S.Container>
-        <S.Item className="item">
+        <S.Item>
           <img alt="Jogos" src={games}/>
           <span>JOGOS</span>
         </S.Item>
-        <S.Item className="item">
+        <S.Item>
           <img alt="Consoles" src={consoles}/>
           <span>CONSOLES</span>
         </S.Item>
-        <S.Item className="item">
+        <S.Item>
           <img alt="Acessórios" src={accessories}/>
           <span>ACESSÓRIOS</span>
         </S.Item>
-        <S.Item className="item">
+        <S.Item>
           <img alt="Ofertas" src={sale}/>
           <span>OFERTAS</span>
         </S.Item>
-        <S.Item className="item">
+        <S.Item>
           <img alt="Minha Conta" src={account}/>
           <span>MINHA CONTA</span>
         </S.Item>
@@ -92,6 +93,8 @@ function Home() {
           <span>SUPORTE</span>
         </S.ItemFooter>
       </S.Container>
+
+      <Footer />
     </>
   );
 }
