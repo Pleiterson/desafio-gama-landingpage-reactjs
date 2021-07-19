@@ -27,6 +27,9 @@ Desafio - Criar um sistema de e-commerce para cadastro de email na landing page 
 - [react-icons](https://react-icons.github.io/react-icons)
 - [styled-components](https://styled-components.com/docs)
 
+<br><p align="center"><img src="./src/assets/projeto.gif"></p>
+
+
 <!--License session-->
 <h3>📝 Licença</h3>
 
