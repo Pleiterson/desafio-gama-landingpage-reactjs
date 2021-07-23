@@ -22,6 +22,10 @@ Desafio - Criar um sistema de e-commerce para cadastro de email na landing page 
 ### Observações
 - Todo o projeto foi criado com commits por parte de desenvolvimento;
 
+
+<h4>Projeto Desafio #1: Landing Page Ecommerce</h4>
+<p align="center"><img src="./src/assets/projeto1.gif"></p>
+
 # Desafio 2# - Gestão de Cadastros
 
 Hellooo!<br>
@@ -52,9 +56,6 @@ Valeeendo \o/
 - [react-router-dom](https://reactrouter.com/web/guides/quick-start)
 - [react-icons](https://react-icons.github.io/react-icons)
 - [styled-components](https://styled-components.com/docs)
-
-<h4>Projeto Desafio #1: Landing Page Ecommerce</h4>
-<p align="center"><img src="./src/assets/projeto1.gif"></p>
 
 <h4>Projeto Desafio #2: Gestão de Cadastro</h4>
 <p align="center"><img src="./src/assets/projeto2.gif"></p>
