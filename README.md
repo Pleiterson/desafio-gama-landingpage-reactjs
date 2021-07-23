@@ -44,7 +44,7 @@ Chegou a hora de mais uma atividade prática - UHUUUL
 Valeeendo \o/
 
 - [Repositório no GitHub](https://github.com/Pleiterson/desafio-gama-landingpage-reactjs)
-- [Link da Landing Page](https://pleigames.vercel.app/)
+- [Link do projeto](https://pleigames.vercel.app/)
 
 ### Observações
 - Reaproveitei o projeto do Desafio#1 para realizar a navegação dos sites (react-router-dom) e migrar para uma página onde ocorrerá a Gestão do Cadastro dos Cliente e Produtos da loja PleiGames;
