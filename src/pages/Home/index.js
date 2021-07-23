@@ -21,7 +21,7 @@ function Home() {
 
   function handleForm(res) {
     res.preventDefault();
-    let data =  {
+    let data = {
       nome: userName,
       email: userEmail
     }

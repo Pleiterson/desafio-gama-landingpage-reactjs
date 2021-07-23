@@ -27,7 +27,7 @@ export const LinkHome = styled(Link)`
 
 export const Menu = styled.ul`
   display: grid;
-  grid-template-columns: repeat(7, auto);
+  grid-template-columns: repeat(8, auto);
   grid-gap: 2rem;
   list-style: none;
   text-align: center;

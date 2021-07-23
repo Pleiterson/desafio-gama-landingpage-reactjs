@@ -7,7 +7,7 @@ function Footer() {
   return (
     <S.Copyright>
       <div className="info">
-        <p>Desafio Landing Page Bootcamp Hiring Coders VTEX © 2021.<br/>Todos os direitos reservados.</p>
+        <p>Desafios Landing Page e Gestão de Cadastros. Bootcamp Hiring Coders VTEX © 2021.<br/>Todos os direitos reservados.</p>
       </div>
       <S.Developer>
         <p>Desenvolvido por:</p>
